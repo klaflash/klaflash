@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kyle
 
 - 🔭 I’m currently working on automated crypto trading using Alpaca API 
-- 🌱 I’m currently learning Solidity, Flutter, Firebase, PyTorch 
+- 🌱 I’m currently learning JavaScript, PyTorch, Solidity, Firebase
 - 📫 How to reach me: klaflash@purdue.edu 
 
 ## Skills
